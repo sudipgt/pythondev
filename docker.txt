@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numa
 is 
 good
@@ -8,3 +9,9 @@ mklsl
 numa 
 sam
 
+=======
+numa
+is 
+good
+# pythondev
+>>>>>>> 24f0d22d4be46235e6e1450fb1163338346a372f
