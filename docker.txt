@@ -5,3 +5,6 @@ good
 sjkla
 hxskls
 mklsl
+numa 
+sam
+
